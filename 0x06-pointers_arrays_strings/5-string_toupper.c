@@ -2,10 +2,10 @@
 /* #include <string.h> */
 #include <stdio.h>
 /**
- *  **string_toupper - function that compares two strings.
- *   *@s: pointer caracter
- *    *Return: string of pointer type
- *     */
+ **string_toupper - function that compares two strings.
+ *@s: pointer caracter
+ *Return: string of pointer type
+ */
 char *string_toupper(char *s)
 
 {
