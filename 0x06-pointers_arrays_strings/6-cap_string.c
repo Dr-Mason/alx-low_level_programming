@@ -2,7 +2,6 @@
 /* #include <string.h> */
 #include <stdio.h>
 /**
- *
  **cap_string - function that compares two strings.
  *@s: pointer caracter
  *Return: string of pointer type
@@ -27,8 +26,7 @@ char *cap_string(char *s)
     		/* || s[i] == ')' */
 		/* || s[i] == '{' */
 		/* || s[i] == '}' */
-		/* || s[i] == '"' */
-)
+		/* || s[i] == '"' */)
 {
 		/* j++; */
 		/* if (j != 0) */
