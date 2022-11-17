@@ -3,7 +3,7 @@
 /*
  * struct dog - structure of a dog
  * @name: name of dog
- * "age:age of dog
+ * age: age of dog
  * @owner: owner of dog
  */
 	struct dog/*struct dog is for giving details for dog*/
@@ -18,4 +18,4 @@
 	dog_t *new_dog(char *name, float age, char *owner);
 	void free_dog(dog_t *d);
 
-	#endif /*#ifdef DOG*/
+	#endif /*STRTYP*/
